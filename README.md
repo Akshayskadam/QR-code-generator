@@ -19,6 +19,7 @@ tkinter module for the GUI
 pyqrcode module for the image.
 
 🌟 How to run
+
 Clone the Project
 Run pip install requirements.txt
 Run python qrGenerator.py
