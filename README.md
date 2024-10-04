@@ -21,4 +21,5 @@ pyqrcode module for the image.
 Clone the Project
 
 Run pip install requirements.txt
+
 Run python qrGenerator.py
