@@ -1,6 +1,11 @@
 QR Code Generator
 
 
+![Qr code](https://github.com/user-attachments/assets/0480c819-4138-41ca-a51a-8a7ecfa1103e)
+![qr](https://github.com/user-attachments/assets/070772e9-0d9d-4a04-94ee-0ff94a322abc)
+
+
+
 
 
 🛠️ Description
